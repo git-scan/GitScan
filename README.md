@@ -1,6 +1,6 @@
-# GitSeek
+# GitScan
 
-GitSeek is a modern web application built with React, TypeScript, and Vite that provides an intuitive interface for interacting with AI models. The application supports multiple AI models including OpenAI and DeepSeek, offering users flexibility in their AI interactions.
+GitScan is a modern web application built with React, TypeScript, and Vite that provides an intuitive interface for interacting with AI models. The application supports multiple AI models including OpenAI and DeepSeek, offering users flexibility in their AI interactions.
 
 ## Features
 
@@ -21,7 +21,7 @@ GitSeek is a modern web application built with React, TypeScript, and Vite that 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/chandlergims/gitseek.git
+git clone https://github.com/git-scan/GitScan
 ```
 
 2. Install dependencies
@@ -36,7 +36,7 @@ npm run dev
 
 ## Connect With Us
 
-Follow us on Twitter [@GitSeek](https://twitter.com/GitSeek) for updates and announcements!
+Follow us on Twitter [@gitscan_ai](https://x.com/gitscan_ai) for updates and announcements!
 
 ## License
 
