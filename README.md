@@ -36,7 +36,7 @@ npm run dev
 
 ## Connect With Us
 
-Follow us on Twitter [@gitscan_ai](https://x.com/gitscan_ai) for updates and announcements!
+Follow us on Twitter [@gitscanai](https://x.com/gitscanai) for updates and announcements!
 
 ## License
 
